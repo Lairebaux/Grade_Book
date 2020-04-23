@@ -1,4 +1,4 @@
 # Grade_Book
 
-Implements a simple grade book
+Implements a simple grade book with testing.
 
